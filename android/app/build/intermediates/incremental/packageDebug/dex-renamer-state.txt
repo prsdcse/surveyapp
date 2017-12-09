@@ -1,0 +1,4 @@
+#Sat Dec 02 20:05:55 GMT+05:30 2017
+base.0=D\:\\survey\\icmr-survey\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\survey\\icmr-survey\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
